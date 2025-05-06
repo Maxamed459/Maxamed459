@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Maxamed+Mahdi;" alt="Maxamed Mahdi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+There!+I'm+Maxamed+Mahdi;" alt="Maxamed Mahdi" />
 </h1>
 
 ---
