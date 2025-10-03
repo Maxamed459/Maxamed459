@@ -4,22 +4,37 @@
 
 ---
 
-### 👨‍💻 Overview
+### 👨‍💻 Full Stack Developer
 
-I’m a fullstack developer with a strong eye for design and a passion for building scalable, performant, and user-friendly web applications. I combine solid frontend craftsmanship with reliable backend architecture, enabling me to deliver complete, end-to-end solutions — from concept to deployment.
+I'm a versatile fullstack developer with expertise across multiple technology stacks, specializing in building scalable, performant, and user-friendly web applications. I combine modern frontend technologies with robust backend architecture to deliver complete, end-to-end solutions — from concept to deployment.
 
-- 🎯 Focused on **React**, **Next.js**, **Tailwind CSS**, and **clean UX**
-- 🎨 Skilled in translating **Figma designs into pixel-perfect interfaces**
-- 🚀 Continuously exploring better ways to build and collaborate
+- 🎯 **Full Stack Proficiency**: MERN Stack, Python/Django, and modern React ecosystem
+- 🗄️ **Database Expertise**: PostgreSQL, SQL, and MongoDB with Prisma ORM
+- 🎨 **Design Integration**: Skilled in translating Figma & Illustrator designs into pixel-perfect interfaces
+- 🔧 **Development Tools**: Vite, Git/GitHub, Redux Toolkit for state management
+- 🚀 **Deployment & DevOps**: Experience with various hosting platforms and CI/CD pipelines
 - 🤝 Open to freelance, full-time, and collaborative open-source projects
 
 ---
 
-### 💼 Current Toolkit
+### 💼 Tech Stack & Tools
 
 ```ts
-Languages:    JavaScript, TypeScript, HTML, CSS  
-Frameworks:   React, Next.js, Node.js  
-Styling:      Tailwind CSS, Framer Motion, Styled Components  
-Design:       Figma 
-Tools:        Git, VS Code, Firebase, Vite
+// Programming Languages
+Languages:    JavaScript, TypeScript, Python, SQL, HTML, CSS
+
+// Frontend Technologies
+Frontend:     React, Next.js, Redux Toolkit, Vite
+Styling:      Tailwind CSS, Framer Motion, Styled Components
+
+// Backend Technologies
+Backend:      Node.js, Express.js, Django
+Databases:    PostgreSQL, MongoDB, SQL
+ORMs:         Prisma, Mongoose
+
+// Design & Prototyping
+Design:       Figma, Adobe Illustrator
+
+// Development Tools
+Tools:        Git, GitHub, VS Code, Firebase, Postman
+Build Tools:  Vite, Webpack
