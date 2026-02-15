@@ -7,40 +7,36 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
                                                                                                          
                                                                                                                                                             
-```
-                                                                                               
+```py
+class SoftwareEngineer:
+    def __init__(self, name, role, niche, speak_language, tech_stacks, skills, contact):
+        self.name = name
+        self.role = role
+        self.niche = niche
+        self.speak_language = speak_language
+        self.tech_stacks = tech_stacks
+        self.skills = skills
+        self.contact = contact
 
-### 👨‍💻 Full Stack Developer
+    def introduce(self):
+        print(
+            f"Hi, I'm {self.name}, a {self.role} specialized in {self.niche}. "
+            f"I speak {self.speak_language}. "
+            f"My primary tech stack includes {self.tech_stacks}. "
+            f"My skills include {self.skills}. "
+            f"Get in touch: {self.contact}"
+        )
 
-I'm a versatile fullstack developer with expertise across multiple technology stacks, specializing in building scalable, performant, and user-friendly web applications. I combine modern frontend technologies with robust backend architecture to deliver complete, end-to-end solutions — from concept to deployment.
 
-- 🎯 **Full Stack Proficiency**: MERN Stack, Python/Django, and modern React ecosystem
-- 🗄️ **Database Expertise**: PostgreSQL, SQL, and MongoDB with Prisma ORM
-- 🎨 **Design Integration**: Skilled in translating Figma & Illustrator designs into pixel-perfect interfaces
-- 🔧 **Development Tools**: Vite, Git/GitHub, Redux Toolkit for state management
-- 🚀 **Deployment & DevOps**: Experience with various hosting platforms and CI/CD pipelines
-- 🤝 Open to freelance, full-time, and collaborative open-source projects
+me = SoftwareEngineer(
+    name="Maxamed Mahdi",
+    role="Software Engineer",
+    niche="Backend Engineering",
+    speak_language="Somali, Arabic, English",
+    tech_stacks="Node.js | Python | Django | DRF | TypeScript | React | Next.js | Flutter",
+    skills="Web and mobile application development",
+    contact="maxamedmahdi459@gmail.com"
+)
 
----
+me.introduce()
 
-### 💼 Tech Stack & Tools
-
-```ts
-// Programming Languages
-Languages:    JavaScript, TypeScript, Python, SQL, HTML, CSS
-
-// Frontend Technologies
-Frontend:     React, Next.js, Redux Toolkit, Vite
-Styling:      Tailwind CSS, Framer Motion, Styled Components
-
-// Backend Technologies
-Backend:      Node.js, Express.js, Django
-Databases:    PostgreSQL, MongoDB, SQL
-ORMs:         Prisma, Mongoose
-
-// Design & Prototyping
-Design:       Figma, Adobe Illustrator
-
-// Development Tools
-Tools:        Git, GitHub, VS Code, Firebase, Postman
-Build Tools:  Vite, Webpack
