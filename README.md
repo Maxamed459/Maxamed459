@@ -7,7 +7,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
                                                                                                          
                                                                                                                                                             
-```py
+```python
 class SoftwareEngineer:
     def __init__(self, name, role, niche, speak_language, tech_stacks, skills, contact):
         self.name = name
