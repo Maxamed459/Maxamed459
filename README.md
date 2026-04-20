@@ -6,7 +6,7 @@ Software Engineer | Full Stack Developer
 
 ## About Me
 
-I’m a self-taught Software Engineer focused on building scalable web applications and modern backend systems. I work across the full stack, developing clean, maintainable solutions using modern JavaScript/TypeScript ecosystems and Python-based backend frameworks.
+I’m a Software Engineer focused on building scalable web applications and modern backend systems. I work across the full stack, developing clean, maintainable solutions using modern JavaScript/TypeScript ecosystems and Python-based backend frameworks.
 
 I specialize in building performant APIs, responsive frontends, and production-ready deployments using containerized environments. I also focus on practical system design, database architecture, and deploying applications to cloud and VPS infrastructure.
 
