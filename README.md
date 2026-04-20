@@ -28,6 +28,7 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
