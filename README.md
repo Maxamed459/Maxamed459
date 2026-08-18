@@ -14,14 +14,19 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ## Tech Stack
 
 ### Frontend
-![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ### Backend
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Django](https://skillicons.dev/icons?i=django)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
@@ -39,9 +44,10 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ### Deployment
-![VPS](https://img.shields.io/badge/VPS-Server-0f172a?style=for-the-badge&logo=server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-Cloud-000000?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
 ## Contact
 
