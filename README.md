@@ -33,6 +33,7 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ### Infrastructure
