@@ -13,19 +13,24 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 
 ## Tech Stack
 
+### Frontend
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
+
+### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Django](https://skillicons.dev/icons?i=django)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+### Infrastructure
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
@@ -33,9 +38,10 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
-![VPS](https://img.shields.io/badge/VPS-Server-0f172a?style=for-the-badge\&logo=server\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-Cloud-000000?style=for-the-badge\&logo=render\&logoColor=white)
+### Deployment
+![VPS](https://img.shields.io/badge/VPS-Server-0f172a?style=for-the-badge&logo=server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Cloud-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ## Contact
 
